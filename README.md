@@ -1,15 +1,18 @@
 ### Date created
-Include the date you created this project and README file.
+July 14th, 2019
 
 ### Project Title
-Replace the Project Title
+Bikeshare analysis
 
 ### Description
-Describe what your project is about and what it does
+This project is intended to share basic statistics of a bicycle-sharing system usage in 3 major US cities: Chicago, New York City, and Washington DC.
 
 ### Files used
-Include the files used
+bikeshare.py
+chicago.csv
+new_york_city.csv
+washington.csv
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+https://nacto.org/bike-share-statistics-2017/
+https://en.wikipedia.org/wiki/List_of_bicycle-sharing_systems#United_States
