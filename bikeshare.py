@@ -25,7 +25,7 @@ def get_filters():
             print('That\'s not a valid city name!')
 
     # TO DO: get user input for month (all, january, february, ... , june)
-    month = input('Enter a month\n').lower()
+    month = input('Choose a month from January to June\n').lower()
 
     # TO DO: get user input for day of week (all, monday, tuesday, ... sunday)
     day = input('Enter a day of week\n').lower()
