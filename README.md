@@ -16,3 +16,4 @@ washington.csv
 ### Credits
 https://nacto.org/bike-share-statistics-2017/
 https://en.wikipedia.org/wiki/List_of_bicycle-sharing_systems#United_States
+https://www.citylab.com/city-makers-connections/bike-share/
