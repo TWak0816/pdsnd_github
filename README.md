@@ -2,7 +2,7 @@
 July 14th, 2019
 
 ### Project Title
-Bikeshare analysis
+Bikeshare data analysis
 
 ### Description
 This project is intended to share basic statistics of a bicycle-sharing system usage in 3 major US cities: Chicago, New York City, and Washington DC.
