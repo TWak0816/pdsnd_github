@@ -19,16 +19,16 @@ def get_filters():
     # TO DO: get user input for city (chicago, new york city, washington). HINT: Use a while loop to handle invalid inputs
     while True:
         try:
-            city = input('Enter a city').lower()
+            city = input('Enter a city\n').lower()
             break
         except:
             print('That\'s not a valid city name!')
 
     # TO DO: get user input for month (all, january, february, ... , june)
-    month = input('Enter a month').lower()
+    month = input('Choose a month from January to June\n').lower()
 
     # TO DO: get user input for day of week (all, monday, tuesday, ... sunday)
-    day = input('Enter a day of week').lower()
+    day = input('Enter a day of week\n').lower()
 
     print('-'*40)
     return city, month, day
@@ -138,7 +138,7 @@ def user_stats(df):
         print('The most common birth year of users is:\n', popular_birth_year)
     except KeyError:
         print('Birth year is not available for the city')
-                  
+
     print("\nThis took %s seconds." % (time.time() - start_time))
     print('-'*40)
 
